@@ -3,7 +3,7 @@
     font-style:normal;
     font-weight:400;
     font-display:swap;
-    src:url(https://www.aeccglobal.in/templates/wimble/fonts/fa-brands-400.woff2) format("woff2");
+    src:url(./fa-brands-400.woff2) format("woff2");
 }
 .fab{
     font-family:"Font Awesome 5 Brands"
@@ -13,7 +13,7 @@
     font-style:normal;
     font-weight:400;
     font-display:swap;
-    src:url(https://www.aeccglobal.in/templates/wimble/fonts/fa-regular-400.woff2) format("woff2")
+    src:url(./fa-regular-400.woff2) format("woff2")
 }
 .fab,.far{
     font-weight:400
@@ -23,7 +23,7 @@
     font-style:normal;
     font-weight:900;
     font-display:swap;
-    src:url(https://www.aeccglobal.in/templates/wimble/fonts/fa-solid-900.woff2) format("woff2");
+    src:url(./fa-solid-900.woff2) format("woff2");
 }
 .fa,.far,.fas{
     font-family:"Font Awesome 5 Free"
