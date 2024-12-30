@@ -13711,3 +13711,7 @@ input[type="text"], select { padding: 5px 8px !important; border-radius: 50px !i
 .zsiq_flt_rel { background-color: rgb(17, 0, 83) !important; }
 
 .zsiq_seasonal .st2 { fill: rgb(17, 0, 83) !important; }
+
+.logo-image-phone {
+    height: 60px !important;
+}
